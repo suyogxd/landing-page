@@ -12,11 +12,10 @@ body{
 
 .header{
     display:flex;
-    gap: 400px;
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    padding-right: 400px;
+    padding-right: 300px;
     padding-top: 20px;
 }
 
@@ -27,7 +26,7 @@ body{
 }
 .logo-img, .intro-text{
     height:35px;
-    margin-left: 400px;
+    margin-left: 300px;
 }
 
 a{
@@ -47,24 +46,23 @@ p{
 .intro-page{
     display: flex;
     padding-top: 50px;
-    gap: 56px;
+    gap: 70px;
     background-color:#1f2937 ;
     height: 500px;
 }
 .intro-text{
     text-wrap: wrap;
-    width: 30%;
+    width: 40%;
 }
 
 .intro-img{
-    width: 70%;
+    width: 60%;
 
 }
 
 .arc-reactor{
     height: 300px;
     width: 700px;
-    margin-right: 130px;
     padding-top: 30px;
 
 }
