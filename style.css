@@ -26,7 +26,7 @@ body{
 }
 .logo-img, .intro-text{
     height:35px;
-    margin-left: 300px;
+    padding-left: 300px;
 }
 
 a{
@@ -48,15 +48,16 @@ p{
     padding-top: 50px;
     gap: 70px;
     background-color:#1f2937 ;
-    height: 500px;
+    height: 450px;
 }
 .intro-text{
     text-wrap: wrap;
-    width: 40%;
+    width: 550px;
+    /* width: 40%; */
 }
 
 .intro-img{
-    width: 60%;
+    /* width: 60%; */
 
 }
 
@@ -84,7 +85,7 @@ p{
 .character-img{
  height: 210px;
  width:210px;
- border: 6px solid #3882f6;
+ border: 5px solid #3882f6;
  border-radius: 15px;;
 }
 .characters-info{
